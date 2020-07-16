@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ef6dee-f1dc-4a5a-a755-03b986f1e02f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/OperateXls.py" beforeDir="false" afterPath="$PROJECT_DIR$/OperateXls_branch02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperateXls_branch02.py" beforeDir="false" afterPath="$PROJECT_DIR$/OperateXls_branch02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OperateXls_branch02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="92">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -60,6 +60,7 @@
         <option value="$PROJECT_DIR$/MainFrame.py" />
         <option value="$PROJECT_DIR$/CoordinateTrans_branch01.py" />
         <option value="$PROJECT_DIR$/OperateXls.py" />
+        <option value="$PROJECT_DIR$/OperateXls_branch02.py" />
       </list>
     </option>
   </component>
@@ -170,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594883637567</updated>
-      <workItem from="1594883641228" duration="6575000" />
+      <workItem from="1594883641228" duration="7176000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit">
       <created>1594884238244</created>
@@ -190,7 +191,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6575000" />
+    <option name="totallyTimeSpent" value="7176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -244,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OperateXls_branch02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="92">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
